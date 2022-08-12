@@ -20,6 +20,9 @@ This step involves creating an elbow plot to identify the best number of cluster
 The model was run at K value of 3 and plot was created to visualize the clusters.
 <br>
 ![image](https://user-images.githubusercontent.com/91984732/184450853-4e8904fd-0cd0-4732-99c8-f55b3d551a0d.png)
+<br>
+![image](https://user-images.githubusercontent.com/91984732/184451304-5014950b-8a76-4e8e-b7ae-4c133758eeb7.png)
+
 
 ## Part 4: Make a Recommendation
 Based on the machine learning results, there are **three distinct groups or clusters of patients** that would be better to analyze separately. <br> The elbow plot showed a **K value of 3**.
