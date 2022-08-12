@@ -17,7 +17,7 @@ This step involves creating an elbow plot to identify the best number of cluster
 <br>
 ![image](https://user-images.githubusercontent.com/91984732/184450612-fb7049b8-708d-48f1-9381-213bd3351749.png)
 
-The model was run at K value of 3 and then visualized the clusters.
+The model was run at K value of 3 and plot was created to visualize the clusters.
 <br>
 ![image](https://user-images.githubusercontent.com/91984732/184450853-4e8904fd-0cd0-4732-99c8-f55b3d551a0d.png)
 
