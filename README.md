@@ -21,7 +21,7 @@ The model was run at K value of 3 and plot was created to visualize the clusters
 <br>
 ![image](https://user-images.githubusercontent.com/91984732/184450853-4e8904fd-0cd0-4732-99c8-f55b3d551a0d.png)
 <br>
-![image](https://user-images.githubusercontent.com/91984732/184451304-5014950b-8a76-4e8e-b7ae-4c133758eeb7.png)
+![image](https://user-images.githubusercontent.com/91984732/184451398-b5c2fac7-0949-499e-8bba-992f44787ed9.png)
 
 
 ## Part 4: Make a Recommendation
