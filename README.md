@@ -23,7 +23,7 @@ The model was run at K value of 3 and plot was created to visualize the clusters
 
 
 ## Part 4: Make a Recommendation
-Based on the machine learning results, there are **three distinct groups or clusters of patients** that would be better to analyze separately. <br> The elbow plot showed a **K value of 3**.
+Based on the machine learning results, there are **three distinct groups or clusters of patients** that would be better to analyze separately. The elbow plot showed a **K value of 3**.
 
 
 
